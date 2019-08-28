@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddf7e5ea.chunk.css",
-    "main.js": "/static/js/main.bc35be0e.chunk.js",
-    "main.js.map": "/static/js/main.bc35be0e.chunk.js.map",
+    "main.css": "/static/css/main.ef1bf07a.chunk.css",
+    "main.js": "/static/js/main.c4c77963.chunk.js",
+    "main.js.map": "/static/js/main.c4c77963.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.63e0521e.chunk.js": "/static/js/2.63e0521e.chunk.js",
-    "static/js/2.63e0521e.chunk.js.map": "/static/js/2.63e0521e.chunk.js.map",
+    "static/js/2.f693f6d1.chunk.js": "/static/js/2.f693f6d1.chunk.js",
+    "static/js/2.f693f6d1.chunk.js.map": "/static/js/2.f693f6d1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.926462efc028a76e6f4fd6a4bfbcb429.js": "/precache-manifest.926462efc028a76e6f4fd6a4bfbcb429.js",
+    "precache-manifest.022a4b3c502ff60b030b608de73c3e69.js": "/precache-manifest.022a4b3c502ff60b030b608de73c3e69.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ddf7e5ea.chunk.css.map": "/static/css/main.ddf7e5ea.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+    "static/css/main.ef1bf07a.chunk.css.map": "/static/css/main.ef1bf07a.chunk.css.map",
+    "static/media/angular-icon-white.svg": "/static/media/angular-icon-white.44504cbc.svg",
+    "static/media/australia-white.svg": "/static/media/australia-white.f257c7ec.svg",
+    "static/media/html-white.svg": "/static/media/html-white.a344b543.svg",
+    "static/media/javascript-white.svg": "/static/media/javascript-white.ef5fd0fb.svg",
+    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg",
+    "static/media/macquarie-bank-white.svg": "/static/media/macquarie-bank-white.d0bd7044.svg",
+    "static/media/mcdonald-white.svg": "/static/media/mcdonald-white.23e9d80c.svg",
+    "static/media/nbn-white.svg": "/static/media/nbn-white.de52838d.svg",
+    "static/media/react-white.svg": "/static/media/react-white.3ebccabe.svg",
+    "static/media/sass-white.svg": "/static/media/sass-white.6cebd0d2.svg",
+    "static/media/telstra-white.svg": "/static/media/telstra-white.4d854497.svg",
+    "static/media/volkswagen-white.svg": "/static/media/volkswagen-white.ccf849a2.svg",
+    "static/media/vue-white.svg": "/static/media/vue-white.df428fbe.svg"
   }
 }
